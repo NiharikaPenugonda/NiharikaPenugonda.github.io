@@ -3,7 +3,7 @@ body{
 }
 #header{
     background-color: lightgray;
-    height: 70px;
+    height: 100px;
 }
 #logo{
     color: black;
@@ -11,6 +11,7 @@ body{
     width: 40%;
     float: left;
     line-height: 70px;
+    font-family: cursive;
 }
 #nav{
     text-align: center;
@@ -22,12 +23,10 @@ body{
 a{
     text-decoration: none;
     color: black;
-    margin-right: 15px;
+    margin-right: 10px;
 }
-h3{
-    margin: 0px;
-    font-size: 25px;
-    font-family: cursive;
+h1{
+    margin: 0px;  
 }
 .photography{
     height: 200px;
@@ -50,7 +49,6 @@ h3{
 .icon{
     color: antiquewhite;
     line-height: 50px;
-    /* text-decoration: none; */
     margin: 10px;
     width: 10px;
 }
