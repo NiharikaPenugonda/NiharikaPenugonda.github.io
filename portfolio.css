@@ -10,14 +10,14 @@ body{
     text-align: center;
     width: 40%;
     float: left;
-    line-height: 70px;
+    line-height: 100px;
     font-family: cursive;
 }
 #nav{
     text-align: center;
     width: 60%;
     float: right;
-    line-height: 70px;
+    line-height: 100px;
     font-family: cursive;
 }
 a{
@@ -33,10 +33,9 @@ h1,h4{
     border-radius: 5%;
 }
 #images{
-    width: 40%;
+    width: 30%;
 }
 #desc{
-    border-radius: 40%;
     padding-left: 50px;
     padding-right: 50px;
 }
